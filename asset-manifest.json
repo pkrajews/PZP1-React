@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PZP1-React/static/css/main.3b91c0d4.css",
+    "main.js": "/PZP1-React/static/js/main.956e166e.js",
+    "index.html": "/PZP1-React/index.html",
+    "main.3b91c0d4.css.map": "/PZP1-React/static/css/main.3b91c0d4.css.map",
+    "main.956e166e.js.map": "/PZP1-React/static/js/main.956e166e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b91c0d4.css",
+    "static/js/main.956e166e.js"
+  ]
+}
