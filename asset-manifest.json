@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PZP1-React/static/css/main.efddf457.css",
-    "main.js": "/PZP1-React/static/js/main.4acb7ff3.js",
+    "main.css": "/PZP1-React/static/css/main.ac28224c.css",
+    "main.js": "/PZP1-React/static/js/main.dcaf1cce.js",
     "index.html": "/PZP1-React/index.html",
-    "main.efddf457.css.map": "/PZP1-React/static/css/main.efddf457.css.map",
-    "main.4acb7ff3.js.map": "/PZP1-React/static/js/main.4acb7ff3.js.map"
+    "main.ac28224c.css.map": "/PZP1-React/static/css/main.ac28224c.css.map",
+    "main.dcaf1cce.js.map": "/PZP1-React/static/js/main.dcaf1cce.js.map"
   },
   "entrypoints": [
-    "static/css/main.efddf457.css",
-    "static/js/main.4acb7ff3.js"
+    "static/css/main.ac28224c.css",
+    "static/js/main.dcaf1cce.js"
   ]
 }
