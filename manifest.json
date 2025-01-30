@@ -1,16 +1,16 @@
 {
-  "short_name": "Monopoly",
-  "name": "Monopoly",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.svg",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/svg+xml"
+      "type": "image/x-icon"
     },
     {
-      "src": "logo256.png",
+      "src": "logo192.png",
       "type": "image/png",
-      "sizes": "256x256"
+      "sizes": "192x192"
     },
     {
       "src": "logo512.png",
@@ -19,8 +19,7 @@
     }
   ],
   "start_url": ".",
-  "display": "fullscreen",
+  "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "orientation":  "landscape"
+  "background_color": "#ffffff"
 }
